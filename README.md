@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/katyanireddy/DSA-Auto/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/katyanireddy/DSA-Auto/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/katyanireddy/DSA-Auto/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/katyanireddy/DSA-Auto/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/katyanireddy/DSA-Auto/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/katyanireddy/DSA-Auto/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/katyanireddy/DSA-Auto/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
